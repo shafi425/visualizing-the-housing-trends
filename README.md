@@ -59,7 +59,7 @@ jupyter
 
 1. Clone the Repository
 
-git clone https://github.com/shafi425/visualizing-the-housing-trends/new/main?filename=README.md
+git clone: https://github.com/shafi425/visualizing-the-housing-trends/edit/main/README.md
 
 2. Install Dependencies
 
